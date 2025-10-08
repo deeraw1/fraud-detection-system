@@ -1,2 +1,2 @@
 # fraud-detection-system
-This is an hybrid anomaly detection in financial transactions in real-time to prevent fraudulent activity
+This is a hybrid anomaly detection framework built to monitor financial transactions in real-time. The solution combines machine learning with rule-based thresholds to flag high-risk activity while reducing false positives. 
